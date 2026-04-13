@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941512846685",
+    "project_id": "hack-vision-b9deb",
+    "storage_bucket": "hack-vision-b9deb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941512846685:android:4a2e78c7cb04d642f30cb4",
+        "android_client_info": {
+          "package_name": "com.company.remio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2P3d6XRKn-3zLNJdX0aS2Q0n7ZDozZsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
